@@ -1,0 +1,46 @@
+apiVersion: apps/v1
+kind: StatefulSet
+metadata:
+  labels:
+    component: rabbitmq
+  name: rabbitmq
+spec:
+  serviceName: rabbitmq
+  replicas: 1
+  selector:
+    matchLabels:
+      component: rabbitmq
+  template:
+    metadata:
+      labels:
+        app: taskQueue
+        component: rabbitmq
+    spec:
+      containers:
+      - image: rabbitmq:3.12.2-management
+        name: rabbitmq
+        ports:
+          - name: http
+            protocol: TCP
+            containerPort: 15672
+          - name: amqp
+            protocol: TCP
+            containerPort: 5672
+          - name: epmd
+            containerPort: 4369
+        resources:
+          limits:
+            cpu: 100m
+        imagePullPolicy: Always
+        volumeMounts:
+            - name: rabbitmq-data
+              mountPath: /var/lib/rabbitmq/mnesia
+  volumeClaimTemplates:
+    - metadata:
+        name: rabbitmq-data
+      spec:
+        accessModes:
+          - ReadWriteMany  # Adjust based on your requirements
+        resources:
+          requests:
+            storage: 1Gi  # Adjust the storage size based on your needs

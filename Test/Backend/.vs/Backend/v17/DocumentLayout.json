@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\xingg\\Documents\\Projects\\TestDemo\\Test\\Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC459636-EF0F-4986-8B1D-3E9543B3BE30}|Test.Commands.Api\\Test.Commands.Api.csproj|c:\\users\\xingg\\documents\\projects\\testdemo\\test\\backend\\test.commands.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AC459636-EF0F-4986-8B1D-3E9543B3BE30}|Test.Commands.Api\\Test.Commands.Api.csproj|solutionrelative:test.commands.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC459636-EF0F-4986-8B1D-3E9543B3BE30}|Test.Commands.Api\\Test.Commands.Api.csproj|c:\\users\\xingg\\documents\\projects\\testdemo\\test\\backend\\test.commands.api\\k8sdeployment.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AC459636-EF0F-4986-8B1D-3E9543B3BE30}|Test.Commands.Api\\Test.Commands.Api.csproj|solutionrelative:test.commands.api\\k8sdeployment.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC459636-EF0F-4986-8B1D-3E9543B3BE30}|Test.Commands.Api\\Test.Commands.Api.csproj|c:\\users\\xingg\\documents\\projects\\testdemo\\test\\backend\\test.commands.api\\controllers\\test\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC459636-EF0F-4986-8B1D-3E9543B3BE30}|Test.Commands.Api\\Test.Commands.Api.csproj|solutionrelative:test.commands.api\\controllers\\test\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A88ABAD4-E403-4425-A555-8BCFF68D0161}|Test.Commands.Aplication\\Test.Commands.Application.csproj|c:\\users\\xingg\\documents\\projects\\testdemo\\test\\backend\\test.commands.aplication\\entities\\test\\commands\\createtest\\createtestcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A88ABAD4-E403-4425-A555-8BCFF68D0161}|Test.Commands.Aplication\\Test.Commands.Application.csproj|solutionrelative:test.commands.aplication\\entities\\test\\commands\\createtest\\createtestcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DB90EC-1105-4E1F-8D50-3397DD96F61B}|Test.Consumer.Application\\Test.Consumer.Application.csproj|c:\\users\\xingg\\documents\\projects\\testdemo\\test\\backend\\test.consumer.application\\entities\\test\\commands\\createtest\\createtestcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5DB90EC-1105-4E1F-8D50-3397DD96F61B}|Test.Consumer.Application\\Test.Consumer.Application.csproj|solutionrelative:test.consumer.application\\entities\\test\\commands\\createtest\\createtestcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B39F81E-933F-41E8-943E-B177AFD3622E}|Test.Consumer\\Test.Consumer.csproj|c:\\users\\xingg\\documents\\projects\\testdemo\\test\\backend\\test.consumer\\masstransit\\testcreatedtoconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B39F81E-933F-41E8-943E-B177AFD3622E}|Test.Consumer\\Test.Consumer.csproj|solutionrelative:test.consumer\\masstransit\\testcreatedtoconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B216B3B5-2D58-4199-8A45-F4686D347E05}|Test.Consumer.Infrastructure\\Test.Consumer.Infrastructure.csproj|c:\\users\\xingg\\documents\\projects\\testdemo\\test\\backend\\test.consumer.infrastructure\\repositories\\test\\testcommandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B216B3B5-2D58-4199-8A45-F4686D347E05}|Test.Consumer.Infrastructure\\Test.Consumer.Infrastructure.csproj|solutionrelative:test.consumer.infrastructure\\repositories\\test\\testcommandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B216B3B5-2D58-4199-8A45-F4686D347E05}|Test.Consumer.Infrastructure\\Test.Consumer.Infrastructure.csproj|c:\\users\\xingg\\documents\\projects\\testdemo\\test\\backend\\test.consumer.infrastructure\\repositories\\test\\commandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B216B3B5-2D58-4199-8A45-F4686D347E05}|Test.Consumer.Infrastructure\\Test.Consumer.Infrastructure.csproj|solutionrelative:test.consumer.infrastructure\\repositories\\test\\commandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DB90EC-1105-4E1F-8D50-3397DD96F61B}|Test.Consumer.Application\\Test.Consumer.Application.csproj|c:\\users\\xingg\\documents\\projects\\testdemo\\test\\backend\\test.consumer.application\\entities\\test\\commands\\createtest\\createtestcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5DB90EC-1105-4E1F-8D50-3397DD96F61B}|Test.Consumer.Application\\Test.Consumer.Application.csproj|solutionrelative:test.consumer.application\\entities\\test\\commands\\createtest\\createtestcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DB90EC-1105-4E1F-8D50-3397DD96F61B}|Test.Consumer.Application\\Test.Consumer.Application.csproj|c:\\users\\xingg\\documents\\projects\\testdemo\\test\\backend\\test.consumer.application\\entities\\test\\commands\\updatetest\\updatetestcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5DB90EC-1105-4E1F-8D50-3397DD96F61B}|Test.Consumer.Application\\Test.Consumer.Application.csproj|solutionrelative:test.consumer.application\\entities\\test\\commands\\updatetest\\updatetestcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DB90EC-1105-4E1F-8D50-3397DD96F61B}|Test.Consumer.Application\\Test.Consumer.Application.csproj|c:\\users\\xingg\\documents\\projects\\testdemo\\test\\backend\\test.consumer.application\\entities\\test\\commands\\updatetest\\updatetestcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5DB90EC-1105-4E1F-8D50-3397DD96F61B}|Test.Consumer.Application\\Test.Consumer.Application.csproj|solutionrelative:test.consumer.application\\entities\\test\\commands\\updatetest\\updatetestcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DB90EC-1105-4E1F-8D50-3397DD96F61B}|Test.Consumer.Application\\Test.Consumer.Application.csproj|c:\\users\\xingg\\documents\\projects\\testdemo\\test\\backend\\test.consumer.application\\entities\\test\\commands\\deletetest\\deletetestcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5DB90EC-1105-4E1F-8D50-3397DD96F61B}|Test.Consumer.Application\\Test.Consumer.Application.csproj|solutionrelative:test.consumer.application\\entities\\test\\commands\\deletetest\\deletetestcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DB90EC-1105-4E1F-8D50-3397DD96F61B}|Test.Consumer.Application\\Test.Consumer.Application.csproj|c:\\users\\xingg\\documents\\projects\\testdemo\\test\\backend\\test.consumer.application\\entities\\test\\commands\\deletetest\\deletetestcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5DB90EC-1105-4E1F-8D50-3397DD96F61B}|Test.Consumer.Application\\Test.Consumer.Application.csproj|solutionrelative:test.consumer.application\\entities\\test\\commands\\deletetest\\deletetestcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B39F81E-933F-41E8-943E-B177AFD3622E}|Test.Consumer\\Test.Consumer.csproj|c:\\users\\xingg\\documents\\projects\\testdemo\\test\\backend\\test.consumer\\masstransit\\testdeletedtoconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B39F81E-933F-41E8-943E-B177AFD3622E}|Test.Consumer\\Test.Consumer.csproj|solutionrelative:test.consumer\\masstransit\\testdeletedtoconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B85D7A7-7B9A-45A9-A09C-E54252EE30FC}|Test.Domain\\Test.Domain.csproj|c:\\users\\xingg\\documents\\projects\\testdemo\\test\\backend\\test.domain\\entities\\test\\testentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B85D7A7-7B9A-45A9-A09C-E54252EE30FC}|Test.Domain\\Test.Domain.csproj|solutionrelative:test.domain\\entities\\test\\testentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B39F81E-933F-41E8-943E-B177AFD3622E}|Test.Consumer\\Test.Consumer.csproj|c:\\users\\xingg\\documents\\projects\\testdemo\\test\\backend\\test.consumer\\k8sdeployment.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6B39F81E-933F-41E8-943E-B177AFD3622E}|Test.Consumer\\Test.Consumer.csproj|solutionrelative:test.consumer\\k8sdeployment.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B39F81E-933F-41E8-943E-B177AFD3622E}|Test.Consumer\\Test.Consumer.csproj|c:\\users\\xingg\\documents\\projects\\testdemo\\test\\backend\\test.consumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B39F81E-933F-41E8-943E-B177AFD3622E}|Test.Consumer\\Test.Consumer.csproj|solutionrelative:test.consumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B39F81E-933F-41E8-943E-B177AFD3622E}|Test.Consumer\\Test.Consumer.csproj|c:\\users\\xingg\\documents\\projects\\testdemo\\test\\backend\\test.consumer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6B39F81E-933F-41E8-943E-B177AFD3622E}|Test.Consumer\\Test.Consumer.csproj|solutionrelative:test.consumer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\xingg\\Documents\\Projects\\TestDemo\\Test\\Backend\\Test.Commands.Api\\Dockerfile",
+              "RelativeDocumentMoniker": "Test.Commands.Api\\Dockerfile",
+              "ToolTip": "C:\\Users\\xingg\\Documents\\Projects\\TestDemo\\Test\\Backend\\Test.Commands.Api\\Dockerfile",
+              "RelativeToolTip": "Test.Commands.Api\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-01T11:47:15.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "k8sDeployment.yml",
+              "DocumentMoniker": "C:\\Users\\xingg\\Documents\\Projects\\TestDemo\\Test\\Backend\\Test.Commands.Api\\k8sDeployment.yml",
+              "RelativeDocumentMoniker": "Test.Commands.Api\\k8sDeployment.yml",
+              "ToolTip": "C:\\Users\\xingg\\Documents\\Projects\\TestDemo\\Test\\Backend\\Test.Commands.Api\\k8sDeployment.yml",
+              "RelativeToolTip": "Test.Commands.Api\\k8sDeployment.yml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-08-01T11:47:14.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestController.cs",
+              "DocumentMoniker": "C:\\Users\\xingg\\Documents\\Projects\\TestDemo\\Test\\Backend\\Test.Commands.Api\\Controllers\\Test\\TestController.cs",
+              "RelativeDocumentMoniker": "Test.Commands.Api\\Controllers\\Test\\TestController.cs",
+              "ToolTip": "C:\\Users\\xingg\\Documents\\Projects\\TestDemo\\Test\\Backend\\Test.Commands.Api\\Controllers\\Test\\TestController.cs",
+              "RelativeToolTip": "Test.Commands.Api\\Controllers\\Test\\TestController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowBoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T11:22:03.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TestCommandRepository.cs",
+              "DocumentMoniker": "C:\\Users\\xingg\\Documents\\Projects\\TestDemo\\Test\\Backend\\Test.Consumer.Infrastructure\\Repositories\\Test\\TestCommandRepository.cs",
+              "RelativeDocumentMoniker": "Test.Consumer.Infrastructure\\Repositories\\Test\\TestCommandRepository.cs",
+              "ToolTip": "C:\\Users\\xingg\\Documents\\Projects\\TestDemo\\Test\\Backend\\Test.Consumer.Infrastructure\\Repositories\\Test\\TestCommandRepository.cs",
+              "RelativeToolTip": "Test.Consumer.Infrastructure\\Repositories\\Test\\TestCommandRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T11:17:20.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CommandRepository.cs",
+              "DocumentMoniker": "C:\\Users\\xingg\\Documents\\Projects\\TestDemo\\Test\\Backend\\Test.Consumer.Infrastructure\\Repositories\\Test\\CommandRepository.cs",
+              "RelativeDocumentMoniker": "Test.Consumer.Infrastructure\\Repositories\\Test\\CommandRepository.cs",
+              "ToolTip": "C:\\Users\\xingg\\Documents\\Projects\\TestDemo\\Test\\Backend\\Test.Consumer.Infrastructure\\Repositories\\Test\\CommandRepository.cs",
+              "RelativeToolTip": "Test.Consumer.Infrastructure\\Repositories\\Test\\CommandRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T11:17:19.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UpdateTestCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\xingg\\Documents\\Projects\\TestDemo\\Test\\Backend\\Test.Consumer.Application\\Entities\\Test\\Commands\\UpdateTest\\UpdateTestCommandHandler.cs",
+              "RelativeDocumentMoniker": "Test.Consumer.Application\\Entities\\Test\\Commands\\UpdateTest\\UpdateTestCommandHandler.cs",
+              "ToolTip": "C:\\Users\\xingg\\Documents\\Projects\\TestDemo\\Test\\Backend\\Test.Consumer.Application\\Entities\\Test\\Commands\\UpdateTest\\UpdateTestCommandHandler.cs",
+              "RelativeToolTip": "Test.Consumer.Application\\Entities\\Test\\Commands\\UpdateTest\\UpdateTestCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T11:16:42.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateTestCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\xingg\\Documents\\Projects\\TestDemo\\Test\\Backend\\Test.Consumer.Application\\Entities\\Test\\Commands\\CreateTest\\CreateTestCommandHandler.cs",
+              "RelativeDocumentMoniker": "Test.Consumer.Application\\Entities\\Test\\Commands\\CreateTest\\CreateTestCommandHandler.cs",
+              "ToolTip": "C:\\Users\\xingg\\Documents\\Projects\\TestDemo\\Test\\Backend\\Test.Consumer.Application\\Entities\\Test\\Commands\\CreateTest\\CreateTestCommandHandler.cs",
+              "RelativeToolTip": "Test.Consumer.Application\\Entities\\Test\\Commands\\CreateTest\\CreateTestCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T21:44:00.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateTestCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\xingg\\Documents\\Projects\\TestDemo\\Test\\Backend\\Test.Commands.Aplication\\Entities\\Test\\Commands\\CreateTest\\CreateTestCommandHandler.cs",
+              "RelativeDocumentMoniker": "Test.Commands.Aplication\\Entities\\Test\\Commands\\CreateTest\\CreateTestCommandHandler.cs",
+              "ToolTip": "C:\\Users\\xingg\\Documents\\Projects\\TestDemo\\Test\\Backend\\Test.Commands.Aplication\\Entities\\Test\\Commands\\CreateTest\\CreateTestCommandHandler.cs",
+              "RelativeToolTip": "Test.Commands.Aplication\\Entities\\Test\\Commands\\CreateTest\\CreateTestCommandHandler.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAlwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T11:02:57.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UpdateTestCommand.cs",
+              "DocumentMoniker": "C:\\Users\\xingg\\Documents\\Projects\\TestDemo\\Test\\Backend\\Test.Consumer.Application\\Entities\\Test\\Commands\\UpdateTest\\UpdateTestCommand.cs",
+              "RelativeDocumentMoniker": "Test.Consumer.Application\\Entities\\Test\\Commands\\UpdateTest\\UpdateTestCommand.cs",
+              "ToolTip": "C:\\Users\\xingg\\Documents\\Projects\\TestDemo\\Test\\Backend\\Test.Consumer.Application\\Entities\\Test\\Commands\\UpdateTest\\UpdateTestCommand.cs",
+              "RelativeToolTip": "Test.Consumer.Application\\Entities\\Test\\Commands\\UpdateTest\\UpdateTestCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T11:16:41.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TestCreateDtoConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\xingg\\Documents\\Projects\\TestDemo\\Test\\Backend\\Test.Consumer\\MassTransit\\TestCreateDtoConsumer.cs",
+              "RelativeDocumentMoniker": "Test.Consumer\\MassTransit\\TestCreateDtoConsumer.cs",
+              "ToolTip": "C:\\Users\\xingg\\Documents\\Projects\\TestDemo\\Test\\Backend\\Test.Consumer\\MassTransit\\TestCreateDtoConsumer.cs",
+              "RelativeToolTip": "Test.Consumer\\MassTransit\\TestCreateDtoConsumer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T21:43:35.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DeleteTestCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\xingg\\Documents\\Projects\\TestDemo\\Test\\Backend\\Test.Consumer.Application\\Entities\\Test\\Commands\\DeleteTest\\DeleteTestCommandHandler.cs",
+              "RelativeDocumentMoniker": "Test.Consumer.Application\\Entities\\Test\\Commands\\DeleteTest\\DeleteTestCommandHandler.cs",
+              "ToolTip": "C:\\Users\\xingg\\Documents\\Projects\\TestDemo\\Test\\Backend\\Test.Consumer.Application\\Entities\\Test\\Commands\\DeleteTest\\DeleteTestCommandHandler.cs",
+              "RelativeToolTip": "Test.Consumer.Application\\Entities\\Test\\Commands\\DeleteTest\\DeleteTestCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T11:16:38.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DeleteTestCommand.cs",
+              "DocumentMoniker": "C:\\Users\\xingg\\Documents\\Projects\\TestDemo\\Test\\Backend\\Test.Consumer.Application\\Entities\\Test\\Commands\\DeleteTest\\DeleteTestCommand.cs",
+              "RelativeDocumentMoniker": "Test.Consumer.Application\\Entities\\Test\\Commands\\DeleteTest\\DeleteTestCommand.cs",
+              "ToolTip": "C:\\Users\\xingg\\Documents\\Projects\\TestDemo\\Test\\Backend\\Test.Consumer.Application\\Entities\\Test\\Commands\\DeleteTest\\DeleteTestCommand.cs",
+              "RelativeToolTip": "Test.Consumer.Application\\Entities\\Test\\Commands\\DeleteTest\\DeleteTestCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T11:16:35.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateTestCommand.cs",
+              "DocumentMoniker": "C:\\Users\\xingg\\Documents\\Projects\\TestDemo\\Test\\Backend\\Test.Consumer.Application\\Entities\\Test\\Commands\\CreateTest\\CreateTestCommand.cs",
+              "RelativeDocumentMoniker": "Test.Consumer.Application\\Entities\\Test\\Commands\\CreateTest\\CreateTestCommand.cs",
+              "ToolTip": "C:\\Users\\xingg\\Documents\\Projects\\TestDemo\\Test\\Backend\\Test.Consumer.Application\\Entities\\Test\\Commands\\CreateTest\\CreateTestCommand.cs",
+              "RelativeToolTip": "Test.Consumer.Application\\Entities\\Test\\Commands\\CreateTest\\CreateTestCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T11:14:35.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TestDeleteDtoConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\xingg\\Documents\\Projects\\TestDemo\\Test\\Backend\\Test.Consumer\\MassTransit\\TestDeleteDtoConsumer.cs",
+              "RelativeDocumentMoniker": "Test.Consumer\\MassTransit\\TestDeleteDtoConsumer.cs",
+              "ToolTip": "C:\\Users\\xingg\\Documents\\Projects\\TestDemo\\Test\\Backend\\Test.Consumer\\MassTransit\\TestDeleteDtoConsumer.cs",
+              "RelativeToolTip": "Test.Consumer\\MassTransit\\TestDeleteDtoConsumer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T11:14:06.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "k8sDeployment.yml",
+              "DocumentMoniker": "C:\\Users\\xingg\\Documents\\Projects\\TestDemo\\Test\\Backend\\Test.Consumer\\k8sDeployment.yml",
+              "RelativeDocumentMoniker": "Test.Consumer\\k8sDeployment.yml",
+              "ToolTip": "C:\\Users\\xingg\\Documents\\Projects\\TestDemo\\Test\\Backend\\Test.Consumer\\k8sDeployment.yml",
+              "RelativeToolTip": "Test.Consumer\\k8sDeployment.yml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-06-13T08:01:07.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TestEntity.cs",
+              "DocumentMoniker": "C:\\Users\\xingg\\Documents\\Projects\\TestDemo\\Test\\Backend\\Test.Domain\\Entities\\Test\\TestEntity.cs",
+              "RelativeDocumentMoniker": "Test.Domain\\Entities\\Test\\TestEntity.cs",
+              "ToolTip": "C:\\Users\\xingg\\Documents\\Projects\\TestDemo\\Test\\Backend\\Test.Domain\\Entities\\Test\\TestEntity.cs",
+              "RelativeToolTip": "Test.Domain\\Entities\\Test\\TestEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T18:56:15.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\xingg\\Documents\\Projects\\TestDemo\\Test\\Backend\\Test.Consumer\\appsettings.json",
+              "RelativeDocumentMoniker": "Test.Consumer\\appsettings.json",
+              "ToolTip": "C:\\Users\\xingg\\Documents\\Projects\\TestDemo\\Test\\Backend\\Test.Consumer\\appsettings.json",
+              "RelativeToolTip": "Test.Consumer\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-08T21:44:30.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\xingg\\Documents\\Projects\\TestDemo\\Test\\Backend\\Test.Consumer\\Program.cs",
+              "RelativeDocumentMoniker": "Test.Consumer\\Program.cs",
+              "ToolTip": "C:\\Users\\xingg\\Documents\\Projects\\TestDemo\\Test\\Backend\\Test.Consumer\\Program.cs",
+              "RelativeToolTip": "Test.Consumer\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T21:44:34.666Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

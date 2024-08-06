@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "mbfjIYM/D5s=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\xingg\\Documents\\Projects\\TestDemo\\Test\\Backend\\Test.Domain\\Test.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xingg\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\xingg\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\xingg\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

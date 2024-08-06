@@ -1,0 +1,3 @@
+--Ejecutar en cmd
+
+echo -n 'your_sa_password' | base64

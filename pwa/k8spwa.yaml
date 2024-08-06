@@ -1,0 +1,36 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: pwa
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: pwa
+  template:
+    metadata:
+      labels:
+        app: pwa
+    spec:
+      containers:
+        - name: pwa
+          image: pwa:latest
+          imagePullPolicy: IfNotPresent
+          resources:
+            limits:
+              memory: "128Mi"
+              cpu: "500m"
+          ports:
+            - containerPort: 80
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: pwa
+spec:
+  selector:
+    app: pwa
+  ports:
+    - port: 80
+      protocol: TCP
+      targetPort: 80

@@ -1,0 +1,36 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: testcomponent
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: testcomponent
+  template:
+    metadata:
+      labels:
+        app: testcomponent
+    spec:
+      containers:
+        - name: testcomponent
+          image: testcomponent:latest
+          imagePullPolicy: IfNotPresent
+          resources:
+            limits:
+              memory: "128Mi"
+              cpu: "500m"
+          ports:
+            - containerPort: 80
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: testcomponent
+spec:
+  selector:
+    app: testcomponent
+  ports:
+    - port: 80
+      protocol: TCP
+      targetPort: 80

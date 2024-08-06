@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Test.Consumer": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

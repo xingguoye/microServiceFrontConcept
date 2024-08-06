@@ -1,0 +1,12 @@
+--ejecutar en cmd
+
+echo -n 'your_sa_password' | base64
+
+sustituir 'your_sa_password' por la contraseña que quieres poner para sa de sql server
+copiar y pegar el resultado y sustituir <base64_encoded_password> dentro de sqlserversecret.yml
+
+luego ejecutar
+
+kubectl apply -f ./sqlserversecret.yml
+kubectl apply -f ./sqlserver.yml
+kubectl apply -f ./sqlserverexternal.yml

@@ -1,0 +1,21 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+    name: apitestconsumer
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: apitestconsumer
+  template:
+    metadata:
+      labels:
+        app: apitestconsumer
+    spec:
+      containers:
+        - name: apitestconsumer
+          image: testconsumer:latest
+          imagePullPolicy: IfNotPresent
+          ports:
+            - containerPort: 80
+              protocol: TCP

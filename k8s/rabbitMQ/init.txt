@@ -1,0 +1,5 @@
+--ejecutar en cmd
+
+kubectl apply -f ./rabbitmq.yml
+kubectl apply -f ./rabbitmqManagement.yml
+kubectl apply -f ./rabbitmqService.yml

@@ -1,0 +1,12 @@
+--ejecutar en cmd
+
+kubectl apply -f ./dashboard-adminuser-role.yml
+kubectl apply -f ./dashboard-adminuser.yml
+kubectl apply -f ./dashboard-adminuser-longlive.yml
+
+
+kubectl -n kubernetes-dashboard port-forward svc/kubernetes-dashboard-kong-proxy 8443:443
+
+https://localhost:8443
+
+kubectl get secret admin-user -n kubernetes-dashboard -o jsonpath={".data.token"} | base64 -d

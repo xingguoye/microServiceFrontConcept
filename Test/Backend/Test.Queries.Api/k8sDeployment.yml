@@ -1,0 +1,28 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+    name: apitestqueries
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: apitestqueries
+  template:
+    metadata:
+      labels:
+        app: apitestqueries
+    spec:
+      containers:
+        - name: apitestqueries
+          image: testqueriesapi:latest
+          imagePullPolicy: IfNotPresent
+          ports:
+            - containerPort: 8080
+              protocol: TCP
+          resources:
+            limits:
+              memory: 250Mi
+              cpu: 250m
+            requests:
+              memory: 50Mi
+              cpu: 50m

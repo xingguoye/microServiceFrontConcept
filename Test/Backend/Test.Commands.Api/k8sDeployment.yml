@@ -1,0 +1,21 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+    name: apitestcommands
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: apitestcommands
+  template:
+    metadata:
+      labels:
+        app: apitestcommands
+    spec:
+      containers:
+        - name: apitestcommands
+          image: testcommandsapi:latest
+          imagePullPolicy: IfNotPresent
+          ports:
+            - containerPort: 8080
+              protocol: TCP
